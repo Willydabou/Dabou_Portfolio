@@ -42,7 +42,7 @@ export const Project = React.forwardRef((props, ref) =>{
             <div className="md:mx-14 mx-6 grid grid-cols-2">
                 {
                     MyProjects.map((myProject)=>(
-                        <div className=" border-2 bg-slate-200 drop-shadow-xl rounded-md my-4 md:mx-2 mx-1" >
+                        <div className=" border-2 bg-slate-200 drop-shadow-xl rounded-lg my-4 md:mx-2 mx-1" >
                             <h3 className="bg-blue-400 md:px-6 px-2 py-4 mb-2 md:text-md text-sm font-bold text-white" >{myProject.title}</h3>
                             <div className="md:mx-4 mx-2">
                                 <h4 className="my-4 md:text-base text-sm font-semibold" >{myProject.type}</h4>

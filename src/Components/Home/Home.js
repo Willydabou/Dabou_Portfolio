@@ -5,6 +5,7 @@ import { About } from '../About/About';
 import { Project } from '../Project/Project';
 import { Navbar } from '../Navbar/Navbar';
 import { Experience } from '../Experience/Experience';
+import { Resume } from '../Resume/Resume';
 
 export const Home = () =>{
 
@@ -61,6 +62,9 @@ export const Home = () =>{
             </div>
             <div>
                 <Project ref={projectRef} id="project" />
+            </div>
+            <div>
+                <Resume />
             </div>
         </>
     )
