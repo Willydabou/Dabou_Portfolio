@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dabou_Portfolio/static/css/main.10f2704f.css",
+    "main.js": "/Dabou_Portfolio/static/js/main.186e7f7f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Dabou_Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/CV_fr.pdf": "/Dabou_Portfolio/static/media/CV_fr.c8f59074a03dcf3388ff.pdf",
+    "index.html": "/Dabou_Portfolio/index.html",
+    "main.10f2704f.css.map": "/Dabou_Portfolio/static/css/main.10f2704f.css.map",
+    "main.186e7f7f.js.map": "/Dabou_Portfolio/static/js/main.186e7f7f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Dabou_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10f2704f.css",
+    "static/js/main.186e7f7f.js"
+  ]
+}
